@@ -1,0 +1,1 @@
+render(str(COINS), True, BLACK)
